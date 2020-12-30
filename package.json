@@ -1,0 +1,25 @@
+{
+  "name": "@von-development-studio/primeng-message-service",
+  "version": "1.0.0",
+  "description": "Angular + PrimeNG Message Service.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VON-Development-Studio/primeng-message-service"
+  },
+  "keywords": [
+    "angular",
+    "angular 11",
+    "primeng",
+    "message wrapper"
+  ],
+  "author": "Luis García Castro",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^11.0.3",
+    "@angular/core": "^11.0.3",
+    "primeng": "^11.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
